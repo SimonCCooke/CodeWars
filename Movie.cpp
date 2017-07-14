@@ -1,4 +1,4 @@
-"""My friend John likes to go to the cinema. He can choose between system A and system B.
+/*My friend John likes to go to the cinema. He can choose between system A and system B.
 
 System A : buy a ticket (15 dollars) every time
 System B : buy a card (500 dollars) and every time 
@@ -17,7 +17,7 @@ More examples:
 movie(500, 15, 0.9) should return 43 
     (with card the total price is 634, with tickets 645)
 movie(100, 10, 0.95) should return 24 
-    (with card the total price is 235, with tickets 240)"""
+    (with card the total price is 235, with tickets 240)*/
     
 #include <math.h>
 
